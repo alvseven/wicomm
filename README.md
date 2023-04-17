@@ -20,6 +20,7 @@ git clone git@github.com:alvseven/wicomm-techtest.git
 
 ```bash
 cd wicomm-techtest
+```
 
 **1.3** _Run this command to install the project dependencies:_
 

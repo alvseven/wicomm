@@ -1,4 +1,4 @@
-# **Welcome! This is a technical test project for wicomm**
+# **Welcome! This is a project for wicomm**
 
 ## Technologies
 
